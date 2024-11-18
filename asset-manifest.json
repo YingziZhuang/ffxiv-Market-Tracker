@@ -1,15 +1,17 @@
 {
   "files": {
     "main.css": "/ffxiv-Market-Tracker/static/css/main.03610095.css",
-    "main.js": "/ffxiv-Market-Tracker/static/js/main.7abd5444.js",
+    "main.js": "/ffxiv-Market-Tracker/static/js/main.617263c7.js",
+    "static/js/951.b2381a7b.chunk.js": "/ffxiv-Market-Tracker/static/js/951.b2381a7b.chunk.js",
     "static/media/loading.gif": "/ffxiv-Market-Tracker/static/media/loading.0f21d1bc46dedb1ad7f0.gif",
     "static/media/title.png": "/ffxiv-Market-Tracker/static/media/title.636c4a507a039073a8fb.png",
     "index.html": "/ffxiv-Market-Tracker/index.html",
     "main.03610095.css.map": "/ffxiv-Market-Tracker/static/css/main.03610095.css.map",
-    "main.7abd5444.js.map": "/ffxiv-Market-Tracker/static/js/main.7abd5444.js.map"
+    "main.617263c7.js.map": "/ffxiv-Market-Tracker/static/js/main.617263c7.js.map",
+    "951.b2381a7b.chunk.js.map": "/ffxiv-Market-Tracker/static/js/951.b2381a7b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.03610095.css",
-    "static/js/main.7abd5444.js"
+    "static/js/main.617263c7.js"
   ]
 }
